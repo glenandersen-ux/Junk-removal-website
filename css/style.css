@@ -227,7 +227,18 @@ section { padding: 70px 0; }
   border-radius: 999px;
   padding: 8px 18px;
   font-weight: 600;
+}
+.area-list li a {
   color: var(--primary-dark);
+  text-decoration: underline;
+}
+.area-list li a:hover { color: var(--primary); }
+
+.map-embed {
+  margin-top: 30px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
 }
 
 /* ===== Blog ===== */
