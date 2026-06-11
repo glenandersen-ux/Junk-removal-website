@@ -30,6 +30,6 @@ Upload all files/folders to your hosting provider's web root (e.g., via FTP or c
 
 - Replace placeholder phone number `(623) 555-0123` and email throughout the site.
 - Add real photos to the `images/` folder (hero background, about page photo).
-- Update the business name "Peoria Junk Removal Pros" if desired.
+- Update the business name "Peoria Junk Co" if desired.
 - Update `sitemap.xml` and canonical URLs if you use a different domain.
 - Connect the contact form to a form service (e.g., Formspree, Netlify Forms) since it currently has no backend.
